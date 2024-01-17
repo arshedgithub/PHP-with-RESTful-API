@@ -7,7 +7,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     if (empty($name) || empty($pwd)) {
         echo "field empty";
     } else {
-        // echo $name;
+        // when success
     }
 }
 
